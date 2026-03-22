@@ -1,145 +1,53 @@
-<h1 align="center">Hi 👋, I'm Avinash</h1>
-<h3 align="center">A Passionate AI/ML Developer 👾 | Building Intelligent Systems</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Avinash&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=60&descSize=20"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avinashgokul&label=Profile%20views&color=0e75b6&style=flat" alt="avinashgokul" />
-</p>
-
-##                     🙋‍♂️ About Me
-
-- 🔭 I'm currently working on **AI/ML & Computer Vision Projects**
-- 🌱 I'm passionate about **Deep Learning, NLP, and Intelligent Systems**
-- 💬 Ask me about **Python, Machine Learning, and Computer Vision**
-- 📫 Reach me at: **LinkedIn or Instagram below**
----
-
-##                   🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/avinashgokul" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Avinash Gokul" height="30" width="40" />
+<div align="center">
+  <a href="https://linkedin.com/in/avinashgokul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/_avinxxshh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - _avinxxshh" height="30" width="40" />
+  <a href="https://instagram.com/_avinxxshh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
+  &nbsp;
+  <a href="avinashselvamx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
----
+<br/>
 
-##                   🛠️ Languages & Tools
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&width=500&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Exploring+Deep+Learning+%26+Computer+Vision;Crafting+Smart+%26+Scalable+Solutions;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-### 🤖 AI / Machine Learning
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-</p>
+<br/>
 
----
+<div align="center">
 
-### 🌐 Web Development
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-</p>
+  ### 🛠️ Technical Arsenal
 
----
+  <h3>🤖 AI / Machine Learning</h3>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
 
-### 📱 Mobile Development
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-</p>
+  <h3>🌐 Web Development</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&theme=dark" />
 
----
+  <h3>📱 Mobile Development</h3>
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
 
-### 🗄️ Databases
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-</p>
+  <h3>🗄️ Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
----
+  <h3>☁️ Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
 
-### ☁️ Cloud & DevOps
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
 
----
+</div>
 
-### 💻 Programming Languages
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-</p>
-
-
-<p align="center">⭐ <i>Feel free to star my repositories if you find them useful!</i> ⭐</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer"/>
+</div>
